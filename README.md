@@ -1,6 +1,6 @@
 # Hand Written Digit Recognition with Neural Network
 
-Handwritten digit reconìgnition with neural network in Java
+Handwritten digit recognition with neural network in Java
 
 ## API
 
